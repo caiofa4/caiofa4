@@ -1,4 +1,4 @@
-Hello, 👋 My name is Caio Araújo
+<h1 align="center">Hello, 👋 My name is Caio Araújo</h1>
 ================================  
 
 <h3 align="center">Software Developer, Bachelor in Computer Engineering and Msc in Computer Science.</h3> 
