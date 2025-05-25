@@ -12,5 +12,5 @@ I started to program on 2007 when I joined college, and never stopped learning. 
 <p align="left">
 <a href="https://linkedin.com/in/caiofernandesaraujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiofernandesaraujo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6810522/caio-araújo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6810522" height="30" width="40" /></a>
-<a href="https://www.github.com/caiofa4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/caiofa4" target="blank" rel="noreferrer"><img align="center"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="30" width="40" /></a>
 </p>
