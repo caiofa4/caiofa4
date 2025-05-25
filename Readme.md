@@ -1,8 +1,8 @@
 <h1 align="center">Hello, 👋 My name is Caio Araújo</h1>
-================================  
 
 <h3 align="center">Software Developer, Bachelor in Computer Engineering and Msc in Computer Science.</h3> 
--------------------  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiofa4&label=Profile%20views&color=0e75b6&style=flat" alt="caiofa4" /> </p>
 
 I started to program on 2007 when I joined college, and never stopped learning. I've started learning with languages like C and C++, but since then, I've been studying and working with many different contexts, like Kotlin, Java, Swift, Objective-C, Python, and mainly focused on Android development. Right now I'm currently working as a Senior Software Engineer at C.E.S.A.R., focused on Android and using Kotlin and Java.  
 * 🌍  I'm based in Recife - Brazil 
